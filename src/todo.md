@@ -3,6 +3,4 @@
 ```bash
 ```
 
-## gitalias
-
 ## gitkraken
